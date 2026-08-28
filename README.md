@@ -16,7 +16,7 @@ An end-to-end computer-aided diagnosis system that combines nerve conduction wav
 - [Ultrasound AI Service](https://github.com/linh123-newbie/cts_ultrasound)  
   Python service for median nerve segmentation and image classification.
 
-- [Patient Mobile Application](https://github.com/linh123-newbie/cts-user-mobile) [Download APK](https://github.com/linh123-newbie/carpal-tunnel-syndrome-diagnose-system/releases/download/v1.0.0/app-release.apk)
+- [Patient Mobile Application](https://github.com/linh123-newbie/cts-user-mobile) [Download APK](https://github.com/linh123-newbie/carpal-tunnel-syndrome-diagnose-system/releases/download/v1.0.0/app-release.apk)  
   Flutter application that allows users to view examination results, complete medical questionnaires, perform the Phalen’s test, and track disease progression.
 
 ## Main Features
