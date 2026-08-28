@@ -33,9 +33,8 @@ An end-to-end computer-aided diagnosis system that combines nerve conduction wav
 
 ## Tech Stack
 
-- **Backend:** ASP.NET Core, Entity Framework Core, PostgreSQL
+- **Backend:** ASP.NET Core, Entity Framework Core, PostgreSQL, FastAPI
 - **Web:** React
 - **Mobile:** Flutter
-- **AI & Machine Learning:** Python, PyTorch, scikit-learn, MONAI, OpenCV
-- **API Services:** FastAPI
+- **AI:** Python, PyTorch, scikit-learn, MONAI, OpenCV
 - **Deployment:** Linux VPS, GitHub Actions, CI/CD
