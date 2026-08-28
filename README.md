@@ -4,7 +4,7 @@ An end-to-end computer-aided diagnosis system that combines nerve conduction wav
 
 ## Repositories
 
-- [Clinical Web Application](https://github.com/linh123-newbie/CTS_demo)  
+- [Clinical Web Application](https://github.com/linh123-newbie/CTS_demo): https://project.dangkhoa3ln.com/
   React application for doctors to manage patients, review examination results, adjust waveform markers, inspect ultrasound segmentation, and confirm AI predictions.
 
 - [Backend API](https://github.com/linh123-newbie/CTS_backend)  
